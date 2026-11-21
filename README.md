@@ -2,11 +2,15 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
-</picture>
+<div align="center">
+
+<img
+  width="85%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"
+  alt="Pink GitHub Profile Header"
+/>
+
+</div>
 
 # Hey there, I'm Ramkumar K 👋
 
